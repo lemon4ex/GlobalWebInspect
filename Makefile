@@ -1,3 +1,8 @@
+THEOS_DEVICE_IP = localhost -o StrictHostKeyChecking=no
+THEOS_DEVICE_PORT = 2222
+
+ARCHS = armv7 arm64 arm64e
+
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = webinspect

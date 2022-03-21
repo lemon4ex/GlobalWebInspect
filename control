@@ -1,9 +1,9 @@
 Package: me.chichou.webinspect-global
 Name: webinspect
 Depends: mobilesubstrate
-Version: 0.2.0
+Version: 0.2.1
 Architecture: iphoneos-arm
 Description: Enable webview remote inspect for every app
-Maintainer: codecolorist
-Author: codecolorist
+Maintainer: h4ck1n
+Author: h4ck1n, codecolorist
 Section: Tweaks
