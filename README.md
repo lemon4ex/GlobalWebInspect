@@ -2,6 +2,8 @@
 
 Enable WebView inspector for all iOS apps, requires jailbreak
 
+Support iOS9~14 and A12 device
+
 ## Usage
 
 * Enable WebInspector in Preferences
